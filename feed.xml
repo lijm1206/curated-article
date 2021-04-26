@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
   <title>德莱问 • 前端热文</title>
-  <atom:link href="https://dravenww.github.io/awesome/feed.xml" rel="self" type="application/rss+xml" />
-  <link>https://dravenww.github.io/awesome</link>
+  <atom:link href="https://dravenww.github.io/curated-article/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://dravenww.github.io/curated-article</link>
   <description>德莱问 • 前端热文，每日更新，优质文章</description>
   
   <item>
     <title><![CDATA[前端热文 • 列表]]></title>
-    <link>https://dravenww.github.io/awesome/menu.html</link>
-    <guid isPermaLink="false">https://dravenww.github.io/awesome/menu.html</guid>
+    <link>https://dravenww.github.io/curated-article/menu.html</link>
+    <guid isPermaLink="false">https://dravenww.github.io/curated-article/menu.html</guid>
     <pubDate>2021-04-26</pubDate>
     <description><![CDATA[2021-04-26 文章更新]]></description>
   </item>
